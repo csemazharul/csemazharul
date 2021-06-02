@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazharul Islam</h1>
-<h3 align="center">A Backend developer from Bitcode</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csemazharul&label=Profile%20views&color=0e75b6&style=flat" alt="csemazharul" /> </p>
+<h3 align="center">A BACK-END DEVELOPER FROM BITCODE</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csemazharul" alt="csemazharul" /></a> </p>
 
