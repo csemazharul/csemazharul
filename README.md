@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bitcode**
 
-- 🌱 I’m currently learning **PHPUnit**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **PHP,JS**
 
