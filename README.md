@@ -24,6 +24,8 @@
 </a> <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a>
 </p>
 
+<a href="https://app.daily.dev/mazed_islam"><img src="https://api.daily.dev/devcards/9c08c774c87a48ae971214c1e2019483.png?r=hin" width="400" alt="Mazharul Islam's Dev Card"/></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csemazharul&show_icons=true&&theme=tokyonight" alt="csemazharul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csemazharul&show_icons=true&theme=tokyonight" alt="csemazharul" /></p>
